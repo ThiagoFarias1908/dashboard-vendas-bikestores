@@ -1,5 +1,12 @@
 # 📊 Dashboard Comercial - Vendas Varejo (BikeStores)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX">
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=data&logoColor=white" alt="Power Query">
+</p>
+
 > **Status:** Concluído ✔️ <br>
 > **Acesso ao Dashboard Interativo:** [Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzNmYzFiMjQtNjc3Zi00NDNlLWE1MGQtYjJlNjQ0NDkyN2E0IiwidCI6IjI3Njc2N2FmLWQ4ZjgtNDVjNC05ZGUwLWZkMWUzN2E5OGY1NiJ9) <br>
 > **Estudo de Caso (Artigo detalhado):** [Leia no LinkedIn](https://www.linkedin.com/pulse/dashboard-de-vendas-thiago-farias-louren%C3%A7o-apduf/)
